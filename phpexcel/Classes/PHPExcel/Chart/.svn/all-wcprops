@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/Title.php
+END
+GridLines.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/GridLines.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/Layout.php
+END
+Legend.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/Legend.php
+END
+PlotArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/PlotArea.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/Exception.php
+END
+Axis.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/Axis.php
+END
+DataSeries.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/DataSeries.php
+END
+Properties.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/Properties.php
+END
+DataSeriesValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Chart/DataSeriesValues.php
+END

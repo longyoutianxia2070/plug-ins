@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation
+END
+MathTrigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation/MathTrigTest.php
+END
+TextDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation/TextDataTest.php
+END
+LogicalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation/LogicalTest.php
+END
+FinancialTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation/FinancialTest.php
+END
+LookupRefTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation/LookupRefTest.php
+END
+DateTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation/DateTimeTest.php
+END
+FunctionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation/FunctionsTest.php
+END
+EngineeringTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Calculation/EngineeringTest.php
+END

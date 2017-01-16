@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering
+END
+DELTA.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/DELTA.data
+END
+BIN2OCT.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/BIN2OCT.data
+END
+OCT2BIN.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/OCT2BIN.data
+END
+IMSIN.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMSIN.data
+END
+IMCONJUGATE.data
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMCONJUGATE.data
+END
+COMPLEX.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/COMPLEX.data
+END
+HEX2DEC.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/HEX2DEC.data
+END
+DEC2HEX.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/DEC2HEX.data
+END
+IMPRODUCT.data
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMPRODUCT.data
+END
+IMSQRT.data
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMSQRT.data
+END
+IMREAL.data
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMREAL.data
+END
+IMARGUMENT.data
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMARGUMENT.data
+END
+BESSELJ.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/BESSELJ.data
+END
+CONVERTUOM.data
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/CONVERTUOM.data
+END
+IMLOG10.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMLOG10.data
+END
+IMSUB.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMSUB.data
+END
+IMEXP.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMEXP.data
+END
+BIN2DEC.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/BIN2DEC.data
+END
+DEC2BIN.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/DEC2BIN.data
+END
+IMLOG2.data
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMLOG2.data
+END
+OCT2DEC.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/OCT2DEC.data
+END
+DEC2OCT.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/DEC2OCT.data
+END
+BIN2HEX.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/BIN2HEX.data
+END
+HEX2BIN.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/HEX2BIN.data
+END
+BESSELY.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/BESSELY.data
+END
+IMABS.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMABS.data
+END
+IMDIV.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMDIV.data
+END
+GESTEP.data
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/GESTEP.data
+END
+ERFC.data
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/ERFC.data
+END
+OCT2HEX.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/OCT2HEX.data
+END
+HEX2OCT.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/HEX2OCT.data
+END
+IMSUM.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMSUM.data
+END
+IMLN.data
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMLN.data
+END
+IMCOS.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMCOS.data
+END
+IMPOWER.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMPOWER.data
+END
+BESSELK.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/BESSELK.data
+END
+BESSELI.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/BESSELI.data
+END
+ERF.data
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/ERF.data
+END
+IMAGINARY.data
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/Engineering/IMAGINARY.data
+END

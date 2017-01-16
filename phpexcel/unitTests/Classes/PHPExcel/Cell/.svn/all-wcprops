@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Cell
+END
+DataTypeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Cell/DataTypeTest.php
+END
+HyperlinkTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Cell/HyperlinkTest.php
+END
+AdvancedValueBinderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Cell/AdvancedValueBinderTest.php
+END
+DefaultValueBinderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Cell/DefaultValueBinderTest.php
+END

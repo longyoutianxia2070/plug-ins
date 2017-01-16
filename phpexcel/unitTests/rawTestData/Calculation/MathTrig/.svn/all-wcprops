@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig
+END
+LCM.data
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/LCM.data
+END
+SERIESSUM.data
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/SERIESSUM.data
+END
+ATAN2.data
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/ATAN2.data
+END
+ROUNDDOWN.data
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/ROUNDDOWN.data
+END
+ODD.data
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/ODD.data
+END
+PRODUCT.data
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/PRODUCT.data
+END
+INT.data
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/INT.data
+END
+FACT.data
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/FACT.data
+END
+FLOOR.data
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/FLOOR.data
+END
+TRUNC.data
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/TRUNC.data
+END
+QUOTIENT.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/QUOTIENT.data
+END
+SUMSQ.data
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/SUMSQ.data
+END
+ROUNDUP.data
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/ROUNDUP.data
+END
+GCD.data
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/GCD.data
+END
+COMBIN.data
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/COMBIN.data
+END
+POWER.data
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/POWER.data
+END
+LOG.data
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/LOG.data
+END
+MINVERSE.data
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/MINVERSE.data
+END
+MOD.data
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/MOD.data
+END
+MROUND.data
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/MROUND.data
+END
+MULTINOMIAL.data
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/MULTINOMIAL.data
+END
+MMULT.data
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/MMULT.data
+END
+SIGN.data
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/SIGN.data
+END
+FACTDOUBLE.data
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/FACTDOUBLE.data
+END
+CEILING.data
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/CEILING.data
+END
+ROMAN.data
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/ROMAN.data
+END
+MDETERM.data
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/MDETERM.data
+END
+EVEN.data
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/EVEN.data
+END
+SQRTPI.data
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Calculation/MathTrig/SQRTPI.data
+END

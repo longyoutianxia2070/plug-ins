@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData
+END
+ColumnString.data
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/ColumnString.data
+END
+CellSplitRange.data
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellSplitRange.data
+END
+CalculationBinaryComparisonOperation.data
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CalculationBinaryComparisonOperation.data
+END
+CellRangeBoundaries.data
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellRangeBoundaries.data
+END
+CellAbsoluteReference.data
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellAbsoluteReference.data
+END
+CellAbsoluteCoordinate.data
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellAbsoluteCoordinate.data
+END
+CellGetRangeBoundaries.data
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellGetRangeBoundaries.data
+END
+CellBuildRange.data
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellBuildRange.data
+END
+ColumnIndex.data
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/ColumnIndex.data
+END
+CellExtractAllCellReferencesInRange.data
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellExtractAllCellReferencesInRange.data
+END
+CellRangeDimension.data
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellRangeDimension.data
+END
+CellCoordinates.data
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/CellCoordinates.data
+END

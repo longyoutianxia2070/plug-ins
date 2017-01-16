@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader
+END
+Gnumeric.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/Gnumeric.php
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/CSV.php
+END
+IReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/IReadFilter.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/HTML.php
+END
+Excel2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2007.php
+END
+IReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/IReader.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel5.php
+END
+DefaultReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/DefaultReadFilter.php
+END
+Excel2003XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/Excel2003XML.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/Exception.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/Abstract.php
+END
+SYLK.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/SYLK.php
+END
+OOCalc.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/Classes/PHPExcel/Reader/OOCalc.php
+END

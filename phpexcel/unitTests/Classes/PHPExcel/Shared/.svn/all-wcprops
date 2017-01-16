@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared
+END
+PasswordHasherTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared/PasswordHasherTest.php
+END
+TimeZoneTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared/TimeZoneTest.php
+END
+CodePageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared/CodePageTest.php
+END
+FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared/FileTest.php
+END
+DateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared/DateTest.php
+END
+FontTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared/FontTest.php
+END
+StringTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Shared/StringTest.php
+END

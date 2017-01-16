@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Style
+END
+ColorChangeBrightness.data
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Style/ColorChangeBrightness.data
+END
+NumberFormat.data
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Style/NumberFormat.data
+END
+ColorGetGreen.data
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Style/ColorGetGreen.data
+END
+ColorGetRed.data
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Style/ColorGetRed.data
+END
+ColorGetBlue.data
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/prototype/!svn/ver/1635/trunk/product_libraries/composer/phpoffice/phpexcel/unitTests/rawTestData/Style/ColorGetBlue.data
+END
