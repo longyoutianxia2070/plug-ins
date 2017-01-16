@@ -1,0 +1,7 @@
+1、modal弹窗---bootstrap-modal-master
+2、各种图表展示---echarts-2.2.7
+3、js分页---js-pager
+4、php表格---phpexcel
+5、表格目录---js-treetable
+6、日期控件---bootstrap-datepicker-master
+7、bootstrap --- bootstrap

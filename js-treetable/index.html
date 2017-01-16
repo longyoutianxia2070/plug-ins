@@ -1,0 +1,17 @@
+  $l = ($item->parents[0] == 0) ? '' : 'data-tt-parent-id="' . $item->parents[0] . '"';
+      $tid = $item->tid;
+      $level = $item->level;
+      $path = url("custom/product/category/delete/{$tid}");
+      $op = '<a value="' . $tid . '" href="javascript::void(0)" class="add_category">新增子类&nbsp;&nbsp;</a>'
+        . l('关联属性&nbsp;&nbsp;', "custom/product/category/relation/{$tid}", array('html' => TRUE))
+        . l('查看&nbsp;&nbsp;', "custom/product/category/property/{$tid}", array('html' => TRUE))
+        . '<a href="#" value="' . $path . '" class="del-delete">删除</a>';
+
+      echo '<tr data-tt-id="' . $item->tid . '" ' . $l . '><td>' . $item->name . '</td><td>' . $level . '级</td><td>' . $item->code . '</td><td>' . $item->description . '</td><td>' . $op . '</td></tr>';
+	  
+	  
+	  <script type="text/javascript">
+  $(document).ready(function () {
+    $("#table").agikiTreeTable({persist: true, persistStoreName: "files"});
+  });
+</script>
