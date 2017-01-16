@@ -1,0 +1,27 @@
+<ul class="pagination" id="pagination1"></ul>
+
+ $.jqPaginator('#pagination1', {
+					    totalPages: item.count,
+					    visiblePages:10,
+					    currentPage: 1,
+					    first: '<li class="first"><a href="javascript:;">&lt&lt</a></li>',
+					    prev: '<li class="prev"><a href="javascript:;">&lt</a></li>',
+					    next: '<li class="next"><a href="javascript:;">&gt</a></li>',
+					    last: '<li class="last"><a href="javascript:;">&gt&gt</a></li>',
+					    page: '<li class="page"><a href="javascript:;">{{page}}</a></li>',
+					    onPageChange: function (num, type) {
+					      $('#p1').text(type + '£º' + num);
+					      $.post("<?php echo url('product/center/configure/on_shelf/confirm')?>", {
+					        'num': num,
+					      }, function (result) {
+					    	  var tmp = jQuery.parseJSON(result);
+					        $('.test_tr').remove();
+					        var table = '';
+					        for (var m in tmp) {
+								    var tr = '<tr class="test_tr"><td>'+tmp[m].goodsName+'</td><td>'+tmp[m].channelName+'</td><td>'+tmp[m].provinceName+'</td><td>'+tmp[m].prodTimeRange+'</td><td>'+tmp[m].statusName+'</td><td>'+tmp[m].reqTimeRange+'</td></tr>';
+							      table = table + tr;
+							    }
+					        $('#modal-table-show').after(table);
+					      });
+					    }
+					  });
